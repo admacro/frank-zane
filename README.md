@@ -2,6 +2,14 @@
 
 ## Basic
 ### Level 1
+| Workout #1 (Mon) | Workout #2 (Tue) | Workout #3 (Wed) | Workout #1 (Thu) | Workout #2 (Fri) | Workout #3 (Sat) |
+|------------------|------------------|------------------|------------------|------------------|------------------|
+| Chest            | Shoulders        | Thighs           | Chest            | Shoulders        | Thighs           |
+| Back             | Upper Arms       | Calves           | Backs            | Upper Arms       | Calves           |
+|                  | Forearms         | Lower Back       |                  | Forearms         | Lower Back       |
+| Abnominals       | Abnominals       | Abnominals       | Abnominals       | Abnominals       | Abnominals       |
+
+
 #### Workout #1 (Mon, Thu)
 ##### Chest
 - Bench Press 仰卧推举
@@ -60,6 +68,13 @@
 
 
 ### Level 2
+| Workout #1 (Mon) | Workout #2 (Tue) | Workout #1 (Wed) | Workout #2 (Thu) | Workout #1 (Fri) | Workout #2 (Sat) |
+|------------------|------------------|------------------|------------------|------------------|------------------|
+| Chest            | Shoulders        | Chest            | Shoulders        | Chest            | Shoulders        |
+| Back             | Lower Back       | Back             | Lower Back       | Back             | Lower Back       |
+| Thighs           | Upper Arms       | Thighs           | Upper Arms       | Thighs           | Upper Arms       |
+| Calves           | Forearms         | Calves           | Forearms         | Calves           | Forearms         |
+| Abnominals       | Abnominals       | Abnominals       | Abnominals       | Abnominals       | Abnominals       |
 
 #### Workout #1 (Mon, Wed, Fri)
 ##### Chest
