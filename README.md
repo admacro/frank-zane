@@ -37,7 +37,7 @@
 - Reverse Wrist Curl 反握腕弯举
 
 ##### Abdominals
-- Reverse Crunches 卷腹 (5x25)
+- Reverse Crunches 反向卷腹 (5x25)
 
 
 #### Workout #3 (Wed, Sat)
@@ -109,7 +109,7 @@
 - Reverse Wrist Curl 反握腕弯举
 
 ##### Abdominals
-- Reverse Crunches 卷腹 (5x25)
+- Reverse Crunches 反向卷腹 (5x25)
 
 ---
 
