@@ -22,36 +22,37 @@
 ##### Shoulders
 - Barbell Clean And Press 提铃上举
 - Dumbbell Lateral Raises 哑铃侧平举
-- Power Training	
+- *Power Training*
 	- Heavy Upright Row 大重量直立划船 (3x: 10-6-4 reps to failure)
 	- Push Presses 借力推举 (3x: 10-6-4 reps to failure)
 
 ##### Upper Arms
-- Standing Barbell Curls (站姿杠铃弯举)
-- Seated Dumbbell Curls (坐姿哑铃弯举)
-- Close Grip Press (窄握推举)
-- Standing Triceps Extensions With Barbell (站姿杠铃屈臂伸)
+- Standing Barbell Curls 站姿杠铃弯举
+- Seated Dumbbell Curls 坐姿哑铃弯举
+- Close-Grip Press 窄握推举
+- Standing Triceps Extensions with Barbell 站姿杠铃屈臂伸
 
 ##### Forearms
-- Wrist Curl (腕弯举)
-- Reverse Wrist Curl (反握腕弯举)
+- Wrist Curl 腕弯举
+- Reverse Wrist Curl 反握腕弯举
 
 ##### Abdominals
-- Crunches 卷腹 (5x25)
+- Reverse Crunches 卷腹 (5x25)
 
 
 #### Workout #3 (Wed, Sat)
 ##### Thighs
 - Squats 深蹲
-- Lunge 弓步
-- Leg Extension 腿弯举
+- Lunges 弓步
+- Leg Curls 腿弯举
 
 ##### Calves
-- Standing Barb 站姿提踵 (5x15)
+- Standing Calf Raises 站姿提踵 (5x15)
 
 ##### Lower Back
-- Straight-Leg Deadlifts 直腿硬拉 (3x: 10-6-4 reps to failure)
-- Good Mornings 负重体前屈 (3x: 10-6-4 reps to failure)
+- *Power Training*
+  - Straight-Leg Deadlifts 直腿硬拉 (3x: 10-6-4 reps to failure)
+  - Good Mornings 负重体前屈 (3x: 10-6-4 reps to failure)
 
 ##### Abdominals
 - Crunches 卷腹 (5x25)
@@ -64,12 +65,21 @@
 ##### Chest
 - Bench Press 仰卧推举
 - Incline Bench Press 上斜推举
-- Pullover 仰卧上拉
+- Pullovers 仰卧上拉
 
 ##### Back
-- Pull-Ups/Chin-Ups 引体向上 (As Many As You Can Until You Can Do 50 Reps)
-- Bent Over Row 俯身划船
-- Deadlift 硬拉 (3x: 10-6-4 reps to failure)
+- Chin-Ups 引体向上 (do as many as you can at a time until you reach a total of 50 reps)
+- Bent-Over Rows 俯身划船
+- *Power Training*
+	- Deadlifts 硬拉 (3x: 10-6-4 reps to failure)
+
+##### Thighs
+- Squats 深蹲
+- Lunges 弓步
+- Leg Curls 腿弯举
+
+##### Calves
+- Standing Calf Raises 站姿提踵 (5x15)
 
 ##### Abdominals
 - Crunches 卷腹 (5x25)
@@ -77,24 +87,29 @@
 
 #### Workout #2 (Tue, Thu, Sat)
 ##### Shoulders
-- Clean And Press 提铃上举
-- Dumbbell Laterals 哑铃侧平举
-- Heavy Upright Row 大重量直立划船 (3x: 10-6-4 reps to failure)
-- Push Presses 借力推举 (3x: 10-6-4 reps to failure)
+- Barbell Clean And Press 提铃上举
+- Dumbbell Lateral Raises 哑铃侧平举
+- *Power Training*
+	- Heavy Upright Row 大重量直立划船 (3x: 10-6-4 reps to failure)
+	- Push Presses 借力推举 (3x: 10-6-4 reps to failure)
+
+##### Lower Back
+- *Power Training*
+  - Straight-Leg Deadlifts 直腿硬拉 (3x: 10-6-4 reps to failure)
+  - Good Mornings 负重体前屈 (3x: 10-6-4 reps to failure)
 
 ##### Upper Arms
-- Standing Barbell Curls (站姿杠铃弯举)
-- Sitting Barbell Curls (坐姿杠铃弯举)
-- Close Grip Barbell Press (窄握推举)
-- Standing Tricep Presses (站姿杠铃屈臂伸)
+- Standing Barbell Curls 站姿杠铃弯举
+- Seated Dumbbell Curls 坐姿哑铃弯举
+- Close-Grip Press 窄握推举
+- Standing Triceps Extensions with Barbell 站姿杠铃屈臂伸
 
-##### Forearm
-- Forearm Curl (腕弯举)
-- Reverse Forearm Curl (反握腕弯举)
+##### Forearms
+- Wrist Curl 腕弯举
+- Reverse Wrist Curl 反握腕弯举
 
 ##### Abdominals
-- Crunches 卷腹 (5x25)
-
+- Reverse Crunches 卷腹 (5x25)
 
 ---
 
