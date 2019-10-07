@@ -1,4 +1,6 @@
 # Body Building
+<img src="images/iconic.jpeg" width="250" /><img src="images/front.jpg" width="250" /><img src="images/back.jpg" width="250" />
+
 
 ## Basic
 ### Level 1
